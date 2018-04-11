@@ -1,0 +1,6 @@
+[submodule "dcos"]
+	path = puppet-dcos
+	url = https://github.com/deric/puppet-dcos.git
+[submodule "mesos"]
+	path = puppet-mesos
+	url = https://github.com/deric/puppet-mesos.git
